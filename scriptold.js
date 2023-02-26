@@ -29,6 +29,31 @@ function shuffle(array) {
 // Our code 
 // Array of card objects
 
+let cards = [
+    { value: '2', image: './images/bronson.jpeg', matched: false },
+    { value: '3', image: './images/diddy.jpeg', matched: false },
+    { value: '4', image: './images/jayz.jpeg', matched: false },
+    { value: '5', image: './images/kanye.jpeg', matched: false },
+    { value: '6', image: './images/krs.jpeg', matched: false },
+    { value: '7', image: './images/mos.jpeg', matched: false },
+    { value: '8', image: './images/nicki.jpeg', matched: false },
+    { value: '9', image: './images/ortiz.jpeg', matched: false },
+    { value: '10', image:'./images/pun.jpeg', matched: false },
+    { value: '11', image:'./images/talib.jpeg', matched: false },
+    
+    { value: '2', image: './images/bronson.jpeg', matched: false },
+    { value: '3', image: './images/diddy.jpeg', matched: false },
+    { value: '4', image: './images/jayz.jpeg', matched: false },
+    { value: '5', image: './images/kanye.jpeg', matched: false },
+    { value: '6', image: './images/krs.jpeg', matched: false },
+    { value: '7', image: './images/mos.jpeg', matched: false },
+    { value: '8', image: './images/nicki.jpeg', matched: false },
+    { value: '9', image: './images/ortiz.jpeg', matched: false },
+    { value: '10', image:'./images/pun.jpeg', matched: false },
+    { value: '11', image:'./images/talib.jpeg', matched: false },
+]
+
+
 // The property matched in this object likely represents whether the card has been matched with another card in a memory matching game. By default, when the card is initially created, it has not yet been matched with any other card. Therefore, setting matched: false when creating the card object makes sense.
 
 
