@@ -32,7 +32,7 @@ function shuffle(array) {
 let cards = [
     { value: '2', image: './images/bronson.jpeg', matched: false },
     { value: '3', image: './images/diddy.jpeg', matched: false },
-    { value: '4', image: './images/jayz.jpeg', matched: false },
+    { value: '4', image: './images/jay.jpeg', matched: false },
     { value: '5', image: './images/kanye.jpeg', matched: false },
     { value: '6', image: './images/krs.jpeg', matched: false },
     { value: '7', image: './images/mos.jpeg', matched: false },
@@ -43,7 +43,7 @@ let cards = [
     
     { value: '2', image: './images/bronson.jpeg', matched: false },
     { value: '3', image: './images/diddy.jpeg', matched: false },
-    { value: '4', image: './images/jayz.jpeg', matched: false },
+    { value: '4', image: './images/jay.jpeg', matched: false },
     { value: '5', image: './images/kanye.jpeg', matched: false },
     { value: '6', image: './images/krs.jpeg', matched: false },
     { value: '7', image: './images/mos.jpeg', matched: false },
